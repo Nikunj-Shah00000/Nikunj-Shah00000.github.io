@@ -1,0 +1,18 @@
+{
+  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "meta": {
+    "title": "Nikunj Shah | Professional Developer",
+    "description": "Nikunj Shah - Professional Developer | Portfolio",
+    "author": "Nikunj Shah",
+    "keywords": "Professional Developer, Portfolio, Nikunj Shah"
+  },
+  "branding": {
+    "name": "Nikunj Shah",
+    "tagline": "Professional Developer"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "navbarScrollEffect": true
+  }
+}

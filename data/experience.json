@@ -1,0 +1,36 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "AI and Full Stack Developer Intern",
+      "company": "F1 Jobs.io",
+      "period": "Nov 2025",
+      "location": "",
+      "description": "AI and Full Stack Developer Intern at F1 Jobs.io",
+      "responsibilities": [
+        "Worked as AI and Full Stack Developer Intern at F1 Jobs.io"
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Airkrit India (Formerly Edulyt India)",
+      "period": "May 2025 - July 2025",
+      "location": "",
+      "description": "Data Analyst Intern at Airkrit India (Formerly Edulyt India)",
+      "responsibilities": [
+        "Worked as Data Analyst Intern at Airkrit India (Formerly Edulyt India)"
+      ]
+    },
+    {
+      "title": "Data Analytics Intern",
+      "company": "Airkrit India (Formerly Edulyt India)",
+      "period": "May 2023 - July 2023",
+      "location": "",
+      "description": "Data Analytics Intern at Airkrit India (Formerly Edulyt India)",
+      "responsibilities": [
+        "Worked as Data Analytics Intern at Airkrit India (Formerly Edulyt India)"
+      ]
+    }
+  ]
+}

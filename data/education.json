@@ -1,0 +1,53 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "school": "Amity University, Noida",
+      "institution": "Amity University, Noida",
+      "period": "Expected 2026",
+      "details": "GPA: 7.72/10",
+      "description": "GPA: 7.72/10"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "school": "Amity University, Noida",
+      "institution": "Amity University, Noida",
+      "period": "2021-2024",
+      "details": "GPA: 9.3/10",
+      "description": "GPA: 9.3/10"
+    },
+    {
+      "degree": "Class 12 (Commerce with Mathematics)",
+      "school": "Arwachin Bharti Bhawan Sr. Sec. School, CBSE",
+      "institution": "Arwachin Bharti Bhawan Sr. Sec. School, CBSE",
+      "period": "2021",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CISCO",
+      "issuer": ""
+    },
+    {
+      "name": "IBM",
+      "issuer": ""
+    },
+    {
+      "name": "Google",
+      "issuer": ""
+    },
+    {
+      "name": "MathWorks",
+      "issuer": ""
+    },
+    {
+      "name": "Atlassian",
+      "issuer": ""
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "_instructions": "Add your projects here. Each project should showcase your work.",
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Automated Penalized System in Non-Parking Zone",
+      "description": "Project: Automated Penalized System in Non-Parking Zone",
+      "technologies": [
+        "IoT",
+        "Python",
+        "Computer Vision"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Voice Command Recognition with Cloud Deployment",
+      "description": "Project: Voice Command Recognition with Cloud Deployment",
+      "technologies": [
+        "Deep Learning",
+        "UNIX",
+        "Cloud"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "AI/ML Algorithm for Tropical Cloud Cluster Identification",
+      "description": "Project: AI/ML Algorithm for Tropical Cloud Cluster Identification",
+      "technologies": [
+        "ML",
+        "Satellite Data",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Smart Home Automation with Real-Time Sound Detection",
+      "description": "Project: Smart Home Automation with Real-Time Sound Detection",
+      "technologies": [
+        "IoT",
+        "EdgeImpulse",
+        "MFC"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "CryptoChat - Secure Communication Platform",
+      "description": "Project: CryptoChat - Secure Communication Platform",
+      "technologies": [
+        "Cryptography",
+        "Python",
+        "Security"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "Surakshanet - AI-Powered Pilgrim Safety Grid",
+      "description": "Project: Surakshanet - AI-Powered Pilgrim Safety Grid",
+      "technologies": [
+        "AI",
+        "IoT",
+        "Safety Systems"
+      ],
+      "icon": "fas fa-brain",
+      "github": "",
+      "demo": ""
+    },
+    {
+      "title": "AI-Powered-Stock-Market-Trading-with-Real-Time-Risk-Monitoring",
+      "description": "designed a stock market website based on live straming which shows live risk monitoring of the stock prices and provide the suggestions if they see its causing a loss so in which we can invest",
+      "technologies": [
+        "JavaScript"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/Nikunj-Shah00000/AI-Powered-Stock-Market-Trading-with-Real-Time-Risk-Monitoring",
+      "demo": "https://github.com/Nikunj-Shah00000/AI-Powered-Stock-Market-Trading-with-Real-Time-Risk-Monitoring"
+    },
+    {
+      "title": "Generative-AI-Driven-Smart-Kitchen-Assistant-for-Personalized-Cooking-and-Resource-Optimization",
+      "description": "Generative AI-Driven Smart Kitchen Assistant for Personalized Cooking and Resource Optimization",
+      "technologies": [
+        "HTML",
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/Nikunj-Shah00000/Generative-AI-Driven-Smart-Kitchen-Assistant-for-Personalized-Cooking-and-Resource-Optimization",
+      "demo": "https://github.com/Nikunj-Shah00000/Generative-AI-Driven-Smart-Kitchen-Assistant-for-Personalized-Cooking-and-Resource-Optimization"
+    },
+    {
+      "title": "yolo-1767785472602",
+      "description": "⚡ YOLO: Merge without review for achievement",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/Nikunj-Shah00000/yolo-1767785472602",
+      "demo": "https://github.com/Nikunj-Shah00000/yolo-1767785472602"
+    }
+  ]
+}
